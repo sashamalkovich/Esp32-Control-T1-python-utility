@@ -11,5 +11,5 @@ Device parameters can be changed using the desktop utility written in Python. Th
 
 Created using PyCharm Comunity. Recommended to compile using pyinstaller.
 
-Tested on mac os 10.13, 10.11, Windows 10
+Tested on mac os 10.14, 10.13, 10.11, Windows 10
 
