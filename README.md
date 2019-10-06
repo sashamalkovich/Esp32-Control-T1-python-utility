@@ -13,3 +13,6 @@ Created using PyCharm Comunity. Recommended to compile using pyinstaller.
 
 Tested on mac os 10.14, 10.13, 10.11, Windows 10
 
+
+For use in Windows, inside file checkPorts.py 'CP2102' must be replaced with 'Silicon'
+
